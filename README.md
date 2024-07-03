@@ -21,11 +21,11 @@ Para ejecutar este proyecto, necesitas tener instalados los siguientes component
 
 1. Clona el repositorio en tu máquina local:
     ```sh
-    git clone https://github.com/tu-usuario/conversor-monedas.git
+    git clone https://github.com/tu-usuario/challenge-conversor-monedas.git
     ```
 2. Navega al directorio del proyecto:
     ```sh
-    cd conversor-monedas
+    cd challenge-conversor-monedas
     ```
 
 ## Uso
