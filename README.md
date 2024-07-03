@@ -80,11 +80,11 @@ Esta clase representa el modelo de datos de la respuesta JSON de la API.
 
 Esta clase contiene el método main y maneja la interacción con el usuario.
 
-### Contribución
+## Contribución
 
 Si deseas contribuir a este proyecto, por favor abre un pull request o crea un issue para discutir los cambios que deseas realizar.
 
-### Licencia
+## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT.
 
